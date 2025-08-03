@@ -84,7 +84,7 @@ void playBadFoodSound(void);
 void playGameOverSound(void);
 //----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 void setup() {
-  Serial.begin(9600);  // Start serial communication for testing
+  // Serial.begin(9600);  // Start serial communication for testing
   tft.begin();
   tft.setRotation(1);  // Set rotation to 1 (landscape)(0-3)
   tft.fillScreen(ILI9341_BLACK);
