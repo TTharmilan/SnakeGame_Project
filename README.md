@@ -61,6 +61,7 @@ Also **Many iterations of Bug identification and gameplay Refinement** is done.
 ## 🧰 Development Setup
 
 - **Platform:** Arduino / PlatformIO (Wokwi simulation or compatible board)
+- **MCU:** Ardunino UNO
 - **Display:** ILI9341
 - **Input:** Joystick module
 - **Sound:** Passive buzzer
