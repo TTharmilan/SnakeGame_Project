@@ -4,7 +4,8 @@
 
 This project implements a **multi-level Snake Game** on an **ILI9341 display** using a **joystick** for control. The game progresses in complexity across levels and includes interactive features such as sound effects, a scoring system, and a persistent high score menu.
 
-The assignment is designed to test skills in **embedded programming**, **hardware interfacing**, and **real-time game logic development**.
+Skills in **embedded programming**, **hardware interfacing**, and **real-time game logic development** are put to test here.
+Also **Many iterations of Bug identification and gameplay Refinement** is done.
 
 ---
 
@@ -64,9 +65,7 @@ The assignment is designed to test skills in **embedded programming**, **hardwar
 - **Input:** Joystick module
 - **Sound:** Passive buzzer
 - **Storage:** EEPROM (for high score saving)
-- **Libraries:** External libraries allowed
 
 ---
 
-## 📁 Folder Structure
 
