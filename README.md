@@ -53,6 +53,9 @@ The assignment is designed to test skills in **embedded programming**, **hardwar
 - Joystick-controlled menu navigation.
 
 ---
+### Game Visuals
+![Game Menu](assets/Menu.png)
+![Game play](assets/GamePlay.png)
 
 ## 🧰 Development Setup
 
