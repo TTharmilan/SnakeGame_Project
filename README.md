@@ -28,7 +28,7 @@ Also **Many iterations of Bug identification and gameplay Refinement** is done.
 - Basic gameplay with food and score.
 
 #### 🔹 Level 2
-- A digit (last digit of group number) appears as a **barrier**.
+- A digit  appears as a **barrier**.
 - Snake dies upon hitting the digit.
 - Food avoids proximity to the digit.
 - If digit spawns near snake's center, it moves to a corner.
@@ -55,8 +55,8 @@ Also **Many iterations of Bug identification and gameplay Refinement** is done.
 
 ---
 ### Game Visuals
-![Game Menu](assets/Menu.png)
-![Game play](assets/GamePlay.png)
+<img src="assets/Menu.png" alt="Game Menu" width="900" height="500"/>
+<img src="assets/GamePlay.png" alt="Gameplay" width="900" height="500"/>
 
 ## 🧰 Development Setup
 
